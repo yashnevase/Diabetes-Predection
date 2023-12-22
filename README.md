@@ -1,6 +1,16 @@
 # Diabetes-Predection
 Diabetes Prediction Web App This repository contains a web application built using Streamlit for predicting diabetes based on various health parameters. The application includes data visualization, machine learning model training, and interactive features for user input.
 
+# Images
+
+![db](https://github.com/yashnevase/Diabetes-Predection/assets/78201930/bc39ba0f-8847-48e2-be75-3213fd8d8cff)
+
+
+![dbb](https://github.com/yashnevase/Diabetes-Predection/assets/78201930/dfa18245-a430-4887-b136-11535c9938f5)
+
+
+
+
 # Features
 
 Data Analysis: Explore descriptive statistics of the training dataset.
